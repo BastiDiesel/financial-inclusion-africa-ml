@@ -1,5 +1,5 @@
 Der Plan — 4 Tage, nach Themen und Stunden
-Dieser Plan ist gleichzeitig deine Projektdokumentation. Du kannst ihn direkt als README-Abschnitt oder als separates PLAN.md in dein Repo legen.
+Dieser Plan ist gleichzeitig deine Projektdokumentation.
 
 Tag 1 — Montag: Fundament und Datenverständnis
 Ziel des Tages: Repo steht, Daten sind lokal, du weißt was in den Spalten steckt. Kein Modell, kein Plot, kein Preprocessing.

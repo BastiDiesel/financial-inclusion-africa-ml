@@ -139,3 +139,18 @@ dmypy.json
 data/
 
 StarterNotebook.ipynb
+
+
+# Zindi / competition files
+data/
+submission*.csv
+StarterNotebook.ipynb
+
+# Local model artifacts
+models/*.pkl
+models/*.sav
+models/*.joblib
+
+# Temporary office files
+~$*.docx
+~$*.xlsx
